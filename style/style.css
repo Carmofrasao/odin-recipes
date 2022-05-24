@@ -1,0 +1,36 @@
+#title{
+    background-color: yellow;
+    color: blue;
+    font-size: 55px;
+    text-align: center;
+}
+
+.nomes-receitas{
+    background-color: palegoldenrod;
+    color: brown;
+    font-size: 35px;
+}
+
+#imagem{
+    height: auto;
+    width: 500px;
+}
+
+#title2{
+    background-color: red;
+    color: yellow;
+    font-size: 55px;
+    text-align: center;
+}
+
+.subtitle{
+    font-size: 35px;
+}
+
+.text{
+    font-size: 20px;
+}
+
+#princ{
+    background-color: palegoldenrod;
+}
