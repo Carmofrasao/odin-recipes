@@ -1,0 +1,1 @@
+Inicio do projeto dev-web, utlizando a plataforma odin, recomendade por richard o grande, para trabalhar no c3sl, "o inicio de um sonho"
