@@ -1,3 +1,9 @@
+/*caracteristicas da pagina principal*/
+
+#princ-pr{
+    background-color: rgb(141, 140, 129);
+}
+
 #title{
     background-color: yellow;
     color: blue;
@@ -11,16 +17,20 @@
     font-size: 35px;
 }
 
-#imagem{
-    height: auto;
-    width: 500px;
+/*caracteristicas gerais para sub paginas*/
+
+#princ-se{
+    background-color: palegoldenrod;
 }
 
-#title2{
-    background-color: red;
-    color: yellow;
+.title2{
     font-size: 55px;
     text-align: center;
+}
+
+.imagem{
+    height: auto;
+    width: 500px;
 }
 
 .subtitle{
@@ -31,6 +41,9 @@
     font-size: 25px;
 }
 
-#princ{
-    background-color: palegoldenrod;
+/*caracteristicas especificas de cada sub pagina*/
+
+#title-D{
+    background-color: red;
+    color: yellow;
 }
