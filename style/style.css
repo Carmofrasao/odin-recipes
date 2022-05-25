@@ -9,6 +9,7 @@
     color: blue;
     font-size: 55px;
     text-align: center;
+    margin: 10px;
 }
 
 .nomes-receitas{
@@ -26,6 +27,13 @@
 .title2{
     font-size: 55px;
     text-align: center;
+}
+
+.image-flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .imagem{
